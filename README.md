@@ -29,8 +29,8 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" />
 </p>
 
 <p>
@@ -38,7 +38,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,obsidian,notion" />
 </p>
 
 <div align="center">
