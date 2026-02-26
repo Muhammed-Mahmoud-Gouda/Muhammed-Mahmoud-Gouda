@@ -44,11 +44,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,obsidian,notion" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammed-Mahmoud-Gouda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammed-Mahmoud-Gouda&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Mahmoud-Gouda&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-Mahmoud-Gouda/Muhammed-Mahmoud-Gouda/output/pacman-contribution-graph-dark.svg">
