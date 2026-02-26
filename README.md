@@ -19,6 +19,9 @@
 </a>
 
 </div>
+<p>
+ <img src="https://komarev.com/ghpvc/?username=Muhammed-Mahmoud-Gouda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -26,7 +29,7 @@
 🏗️ I build scalable systems with clean architecture and maintainable code.  
 📚 Always learning and improving my software engineering mindset.
 
-## 🧰 Tech Stack
+## 🧰 Tob Tech Stack & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet" />
