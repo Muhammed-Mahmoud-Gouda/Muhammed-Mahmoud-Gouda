@@ -44,6 +44,12 @@
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,obsidian,notion" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-Mahmoud-Gouda/Muhammed-Mahmoud-Gouda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammed-Mahmoud-Gouda/Muhammed-Mahmoud-Gouda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammed-Mahmoud-Gouda/Muhammed-Mahmoud-Gouda/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
 
 ⭐ If you find my work helpful, consider starring my repositories!
