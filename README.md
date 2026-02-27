@@ -25,10 +25,21 @@
 
 ## 👨‍💻 About Me
 
-💡 Passionate **Full-Stack Developer** specializing in backend development using **C# & .NET**.  
-🏗️ I build scalable systems with clean architecture and maintainable code.  
-📚 Always learning and improving my software engineering mindset.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="250" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
+I'm a passionate Backend Developer specializing in C# & .NET,  
+with a strong interest in building scalable and maintainable systems.  
+With a solid foundation in Object-Oriented Programming (OOP)  
+, Data Structures, and Database Design.  
+  
+💻 Currently working on: Backend systems & real-world CRUD applications  
+📚 Currently learning: Advanced .NET, Clean Architecture & Design Patterns  
+🛠️ Tech Stack: C#, .NET, LINQ, SQL Server, OOP  
+🤝 Open to: Backend roles, internships & collaboration on .NET projects  
+📩 Reach me at: muhammedmahmoudgoda66@gmail.com  
+<br> <br>
 ## 🧰 Tob Tech Stack & Tools
 
 <p>
