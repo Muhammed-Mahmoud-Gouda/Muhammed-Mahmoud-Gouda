@@ -11,9 +11,6 @@
 <a href="https://github.com/Muhammed-Mahmoud-Gouda">
   <img src="https://skillicons.dev/icons?i=github" height="28"/>
 </a>
-<a href="https://muhammed-mahmoud-portfolio.netlify.app/">
-  <img src="https://skillicons.dev/icons?i=netlify" height="28"/>
-</a>
 <a href="mailto:muhammedmahmoudgoda66@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="28"/>
 </a>
